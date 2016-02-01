@@ -1,0 +1,28 @@
+name: RainWater
+favicon: null
+layout_spectrum: 0.7534640461672097
+typography_spectrum: 0.21401628362946212
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7146174749359488
+  lightness: 0.21714970306493342
+  saturation: 0.14149578218348324
+  rhythmicContrast: 0.5941387615166605
+purpose: []
