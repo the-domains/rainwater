@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RainWater]]></title>
         <description><![CDATA[RainWater]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rainwater/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 16:20:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 15:38:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rainwater/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e80780f4-483b-4122-a7f2-a7b1bbed3ef1.png">]]></description>
-            <link>undefined50e0e4cb-f4d7-4744-af0f-4003b9bed7c9/index.html</link>
+            <link>https://thegrid.ai/rainwater/50e0e4cb-f4d7-4744-af0f-4003b9bed7c9/index.html</link>
             <guid isPermaLink="false">50e0e4cb-f4d7-4744-af0f-4003b9bed7c9</guid>
-            <pubDate>Mon, 01 Feb 2016 16:19:50 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 15:38:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
